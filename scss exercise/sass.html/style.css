@@ -1,0 +1,110 @@
+@charset "UTF-8";
+* {
+  color: #ffffff;
+  margin: 0px;
+}
+
+.nav-container {
+  background-color: #2c2c2c;
+  color: #ffffff;
+}
+.nav-container ul li a {
+  color: #ffffff;
+}
+.nav-container ul li a:hover {
+  color: rgb(180, 180, 180);
+}
+
+.lorem-main {
+  background-color: #111111;
+  align-items: center;
+}
+.lorem-main .left {
+  align-items: center;
+  justify-content: center;
+}
+.lorem-main .left h2 {
+  font-weight: 100 !important;
+  font-size: large;
+}
+.lorem-main .image img {
+  align-items: center;
+  justify-content: center;
+  height: 100% !important;
+  width: 100% !important;
+}
+.lorem-main .right {
+  align-items: center;
+  justify-content: center;
+}
+
+.Connect {
+  background-color: #2c2c2c;
+  height: auto;
+}
+.Connect .left {
+  background-color: #f9a826 !important;
+  width: 300px !important;
+  height: 300px !important;
+  border-radius: 100% !important;
+}
+.Connect .mobile {
+  margin-left: 100px;
+}
+
+.Project {
+  background-color: #111111;
+}
+.Project .desktop .box {
+  background-color: #2c2c2c;
+  border-radius: 15px;
+  margin: 4%;
+  padding: 25px;
+  height: 250px;
+  text-align: center;
+}
+.Project .mobile .mobile-box {
+  background-color: #2c2c2c;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.Astronaut {
+  background-color: #111111;
+}
+.Astronaut img {
+  margin-right: 10% !important;
+  margin-left: 10% !important;
+  height: 75% !important;
+  width: 75% !important;
+}
+
+.Space {
+  background-color: #2c2c2c;
+}
+
+.More {
+  background-color: #111111;
+}
+.More .box {
+  background-color: #2c2c2c;
+  height: 35%;
+}
+
+.last-mobile {
+  background-color: #111111;
+}
+.last-mobile .box {
+  background-color: #2c2c2c;
+}
+
+.footer {
+  background-color: #f9a826;
+  height: 250px;
+  padding: 100px;
+  justify-content: space-evenly;
+}
+.footer img {
+  width: 100px;
+  height: 100px;
+}/*# sourceMappingURL=style.css.map */
